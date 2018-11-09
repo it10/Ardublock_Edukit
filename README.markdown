@@ -2,7 +2,12 @@ ArduBlock
 ======
 
 ArduBlock is a Block Programming Language for Arduino. The language and functions model closely to [Arduino Language Reference](http://arduino.cc/en/Reference/HomePage)
+This is a development fork, including the blocks for Edukit10 from IT10
+https://edukit.it10coop.com.ar/
 
+https://it10coop.com.ar/
+
+Latest current support Arduino IDE 1.8.7
 Installation
 ----
 The project is managed by Maven. After checking out the source for the first time, one should run the following to install Arduino's pde.jar into the local repository. 
