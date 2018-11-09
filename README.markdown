@@ -10,6 +10,7 @@ https://edukit.it10coop.com.ar/
 https://it10coop.com.ar/
 
 Latest current support Arduino IDE 1.8.7
+
 Installation
 ----
 The project is managed by Maven. After checking out the source for the first time, one should run the following to install Arduino's pde.jar into the local repository. 
